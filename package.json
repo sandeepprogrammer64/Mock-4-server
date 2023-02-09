@@ -1,0 +1,25 @@
+{
+  "name": "mock-4-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepprogrammer64/Mock-4-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepprogrammer64/Mock-4-server/issues"
+  },
+  "homepage": "https://github.com/sandeepprogrammer64/Mock-4-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
