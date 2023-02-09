@@ -71,7 +71,17 @@
         "edition": "2021",
         "publisher": "Bloomsbury",
         "cost": 1299,
-        "borrowed": false,
+        "borrowed": false
+    },
+    {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Burry",
+        "cost": 1299,
+        "borrowed": false
     }
 ]
 }
